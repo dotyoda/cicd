@@ -1,0 +1,12 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dotyoda/cicd.git",
+  "author": "André Glatz <andre.luiz@expressotaubate.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node test.js",
+    "start": "node main.js"
+  }
+}
